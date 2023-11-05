@@ -3,7 +3,7 @@
 </div> -->
 
 
-<div align="center" style="color:white; font-size:32px;padding-bottom:16px">Hi 👋, I'm Andrew</div>
+<h1 align="center">Hi 👋, I'm Andrew</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/andrewng41/" target="_blank">
@@ -20,11 +20,11 @@
 
 ###
 
-<p align="center" style="padding:0 20px">I'm a Full-stack Developer with Certified AWS Solutions Architect. Proven development skills in multiple large-scale, microservices projects. Proficient in both frontend and backend development</p>
+<p align="left" style="padding:0 20px">I'm a Full-stack Developer with Certified AWS Solutions Architect. Proven development skills in multiple large-scale, microservices projects. Proficient in both frontend and backend development</p>
 
 ###
 
-<div align="left" style="color:white; font-size:17px;">🛠 Languages and tools</div>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
@@ -85,7 +85,7 @@
 
 ###
 
-<div align="left" style="color:white; font-size:17px;">🔥   My Stats :</div>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
