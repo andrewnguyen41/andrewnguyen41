@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left" style="padding:0 20px">I'm a result-driven Full-stack Developer with proven development skills in multiple large-scale, microservices projects. Proficient in both frontend and backend development</p>
+<p align="left" style="padding:0 20px">I'm a result-driven Full-stack Developer with proven development skills in multiple large-scale, microservices projects. Proficient in both frontend and backend development. Seeking to build programs that make people's lives easier</p>
 
 ###
 
