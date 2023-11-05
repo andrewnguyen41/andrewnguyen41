@@ -20,7 +20,7 @@
 
 ###
 
-<p align="center" style="padding:0 20px">A result-driven Full-stack Developer seeking to build programs that make people's lives easier</p>
+<p align="center" style="padding:0 20px">A result-driven Full-stack Software Engineer seeking to build programs that make people's lives easier</p>
 
 ###
 
