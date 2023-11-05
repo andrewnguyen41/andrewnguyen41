@@ -3,7 +3,7 @@
 </div> -->
 
 
-<h1 align="center" style="color:white">Hi 👋, I'm Andrew</h1>
+<h1 align="center" style="color:white !important">Hi 👋, I'm Andrew</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/andrewng41/" target="_blank">
