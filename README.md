@@ -22,8 +22,8 @@
 <p align="center" style="padding:0 20px">A result-driven Full-stack Software Engineer seeking to build programs that make people's lives easier</p>
 
 ###
-<h3 align="left"> My Website</h3>
-andrewnguyen41.github.io
+<h3 align="left">👩‍💻 My Website</h3>
+[andrewnguyen41.github.io](https://andrewnguyen41.github.io/)
 
 ###
 
