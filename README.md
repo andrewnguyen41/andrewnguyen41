@@ -23,7 +23,7 @@
 
 ###
 <h3 align="left">👩‍💻 My Website</h3>
-[andrewnguyen41.github.io](https://andrewnguyen41.github.io/)
+https://andrewnguyen41.github.io/
 
 ###
 
