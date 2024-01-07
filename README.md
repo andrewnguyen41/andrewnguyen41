@@ -23,7 +23,7 @@
 
 ###
 
-- 💡 [Get to know more about me](https://andrewnguyen41.github.io)
+- 💡 [Get to know more about me](https://andrewnguyen.xyz/?utm_source=github_profile)
 - ⚡ [Read my blog](https://medium.com/@nhan4197)
 
 ###
